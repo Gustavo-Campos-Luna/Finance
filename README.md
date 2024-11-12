@@ -15,7 +15,7 @@ En esta sección del curso, se cubren los fundamentos de las devoluciones, medid
 - **Python**: Implementación de las métricas de rendimiento, VaR y medidas de riesgo.
 - **Librerías**: Pandas, NumPy, Matplotlib para visualización.
 
-#### [Ver el video del curso](https://www.coursera.org/learn/portfolio-construction-analysis)
+#### [Ver el video del curso](https://www.coursera.org/learn/introduction-portfolio-construction-python?specialization=investment-management-python-machine-learning)
 
 ---
 
@@ -31,8 +31,7 @@ En la segunda semana del curso, se profundiza en la optimización de carteras ut
 - **Python**: Implementación de la optimización de carteras con el paquete `cvxopt` y `quadprog`.
 - **Librerías**: NumPy, SciPy, Pandas.
 
-#### [Ver el video del curso](https://www.coursera.org/learn/portfolio-construction-analysis)
-
+#### [Ver el video del curso](https://www.coursera.org/learn/introduction-portfolio-construction-python?specialization=investment-management-python-machine-learning)
 ---
 
 ## 3. Simulación de Monte Carlo y Estrategias de CPPI
@@ -47,8 +46,7 @@ Esta sección cubre la simulación de rendimientos utilizando paseos aleatorios 
 - **Python**: Implementación de simulaciones de Monte Carlo y estrategias CPPI.
 - **Librerías**: NumPy, Matplotlib, pandas.
 
-#### [Ver el video del curso](https://www.coursera.org/learn/portfolio-construction-analysis)
-
+#### [Ver el video del curso](https://www.coursera.org/learn/introduction-portfolio-construction-python?specialization=investment-management-python-machine-learning)
 ---
 
 ## Instrucciones para ver los proyectos:
