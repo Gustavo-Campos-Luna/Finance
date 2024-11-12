@@ -48,7 +48,3 @@ Esta sección cubre la simulación de rendimientos utilizando paseos aleatorios 
 
 #### [Ver el video del curso](https://www.coursera.org/learn/introduction-portfolio-construction-python?specialization=investment-management-python-machine-learning)
 ---
-
-## Instrucciones para ver los proyectos:
-1. Explora los notebooks de Python en este repositorio para ver la implementación de los análisis y optimización de carteras.
-2. Los videos del curso ofrecen una visión general de los conceptos, y los notebooks contienen los códigos utilizados para poner en práctica esos conceptos.
